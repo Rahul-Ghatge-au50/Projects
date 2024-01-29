@@ -29,7 +29,7 @@ function Home() {
         <>
             <div>
                 <h1 className="font-weight-light display-1 text-center">
-                    Restaurant Finder
+                    Restaurants
                 </h1>
             </div>
             <div className='container'>
