@@ -1,0 +1,16 @@
+.movie-cont{
+    /* border: 2px solid red; */
+    padding-left: 38px;
+    padding-right: 38px;
+}
+
+.list-title {
+font-size: 1.75rem;
+margin: 2rem 0 2rem 0;
+}
+
+.cards-list {
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: center; 
+}
